@@ -24,6 +24,7 @@ int main( )
 {
    int n, soma, resul, somatotal;
    cout << "Digite um número: ";
+    cout << "Digite um número: ";
    cin >> n;
    resul = funcsoma(n, somatotal);
    cout << "A soma de todos os números ímpares menores que:"<< n << " é: "<<resul<< endl;
